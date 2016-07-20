@@ -74,6 +74,7 @@
     <building>
       <isInert>true</isInert>
       <ignoreNeedsPower>true</ignoreNeedsPower>
+      <canPlaceOverWall>true</canPlaceOverWall>
     </building>
     <damageMultipliers>
       <li>
